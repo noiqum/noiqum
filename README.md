@@ -1,6 +1,9 @@
 ### Hi there 👋
 [GitHub](https://github.com)
 
+<i class="devicon-threedsmax-plain"></i>
+          
+
 
 <!--
 **noiqum/noiqum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
