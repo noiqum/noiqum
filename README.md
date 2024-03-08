@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,react,redux,jest,cypress,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,express,react,redux,jest,cypress,nextjs,mongodb,firebase)](https://skillicons.dev)
           
 
 
