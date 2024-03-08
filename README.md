@@ -1,7 +1,7 @@
 ### Hi there 👋
 [GitHub](https://github.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express)](https://skillicons.dev)
           
 
 
